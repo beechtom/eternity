@@ -1,0 +1,18 @@
++--------------------------------------------------------------------------------------------------+
+| You are a crew member aboard Eternity, a colony ship that carries all that remains of the human  |
+| race. Shortly after departing your home star system, most of the passengers and crew entered     |
+| cryogenic sleep, leaving a small skeleton crew to watch over the ship. The navigation system has |
+| been on autopilot for the past few years travelling across the galaxy in search of a new home,   |
+| and nothing has gone wrong - until now.                                                          |
+|                                                                                                  |
+| Your goal is to discover what has gone wrong and do what you can do - if anything - to fix it.   |
++--------------------------------------------------------------------------------------------------+
+|                                                                                                  |
+|  CONTROLS                                                                                        |
+|                                                                                                  |
+|  [W] Move up     [A] Move left     [S] Move down     [D] Move right                              |
+|                                                                                                  |
+|  [I] Open your inventory     [E] Explore current room     [Q] Quit the game                      |
+|                                                                                                  |
++--------------------------------------------------------------------------------------------------+
+ 
